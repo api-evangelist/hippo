@@ -1,0 +1,78 @@
+aid: hippo
+name: Hippo
+description: >-
+  Hippo is a digital home insurance provider operating as Hippo Insurance
+  Services, a subsidiary of Hippo Holdings Inc. (NYSE: HIPO). Headquartered
+  in California and domiciled in Delaware, Hippo sells homeowners, Hippo+,
+  auto, flood, pet, landlord, and fire insurance through a network of more
+  than 70 carrier partners, including its in-house carrier Spinnaker
+  Insurance Company. The company serves more than 500,000 homeowners
+  across all 50 states and pairs policies with the Hippo Home app, which
+  offers home maintenance checklists, seasonal guidance, and a home care
+  score to encourage proactive home upkeep. Hippo Holdings also operates
+  First Connect Insurance Services, an independent-agent platform, and
+  Spinnaker Specialty Insurance Company and Mainsail Insurance Company.
+  Hippo does not publish a public developer portal, partner API, or SDK;
+  there is no documented public REST API, OpenAPI specification, or
+  open-source GitHub presence (the `hippoinsurance` GitHub organization
+  exists but is empty).
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Home Insurance
+  - Homeowners Insurance
+  - Property And Casualty
+  - Insurtech
+  - Auto Insurance
+  - Flood Insurance
+  - Pet Insurance
+  - Landlord Insurance
+  - Smart Home
+  - Home Maintenance
+  - Financial Services
+url: https://raw.githubusercontent.com/api-evangelist/hippo/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hippo.com
+  - type: Homeowners
+    url: https://www.hippo.com/homeowners-insurance
+  - type: Auto
+    url: https://www.hippo.com/auto-insurance
+  - type: Flood
+    url: https://www.hippo.com/flood-insurance
+  - type: Pet
+    url: https://www.hippo.com/pet-insurance
+  - type: Landlord
+    url: https://www.hippo.com/landlord-insurance
+  - type: HippoHomeApp
+    url: https://www.hippo.com/hippo-home-app
+  - type: About
+    url: https://www.hippo.com/about-us
+  - type: Investors
+    url: https://investors.hippo.com
+  - type: Spinnaker
+    url: https://spinnakerins.com
+  - type: FirstConnect
+    url: https://www.firstconnectinsurance.com
+  - type: Newsroom
+    url: https://investors.hippo.com/news-releases
+  - type: Careers
+    url: https://www.hippo.com/careers
+  - type: Contact
+    url: https://www.hippo.com/contact
+  - type: GitHub
+    url: https://github.com/hippoinsurance
+  - type: Twitter
+    url: https://twitter.com/HippoInsurance
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hippo-insurance
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
