@@ -39,6 +39,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/hippo-trust-center.yml
+  - type: DomainSecurity
+    url: security/hippo-domain-security.yml
   - type: Website
     url: https://www.hippo.com
   - type: Homeowners
@@ -73,6 +77,8 @@ common:
     url: https://twitter.com/HippoInsurance
   - type: LinkedIn
     url: https://www.linkedin.com/company/hippo-insurance
+  - url: https://www.hippo.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
